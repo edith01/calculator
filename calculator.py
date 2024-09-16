@@ -25,8 +25,8 @@ def square_root(x):
   
 if __name__ == "__main__":
     # Sample inputs
-    a = 16
-    b = 4
+    a = 25
+    b = 5
 
     print(f"{a} + {b} = {add(a, b)}")
     print(f"{a} - {b} = {subtract(a, b)}")
